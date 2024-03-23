@@ -9,19 +9,20 @@ Ce projet est une application web e-commerce qui offre aux utilisateurs la possi
 - Recherche de produits par présentation d'une image.
 - Affichage aléatoire d'une sélection de produits de différentes catégories.
 - Retour de la liste des produits similaires en fonction de l'image sélectionnée.
-- Interface utilisateur conviviale avec HTML5 et CSS (Bootstrap).
+- Interface utilisateur conviviale avec HTML5 , CSS et JavaScript.
 
 ## <span style="font-size:1.2em; color:green;">Technologies Utilisées</span>
 
-- HTML5
-- CSS (Bootstrap)
 - Python
 - Deep Learning pour la classification des images
 - Framework Keras pour la classification basée sur un modèle entraîné sur ImageNet
+- HTML5
+- CSS
+- JavaScript
 
 ## <span style="font-size:1.2em; color:green;">Structure du Projet</span>
 
-- **frontend/** : Contient les fichiers HTML et CSS pour l'interface utilisateur.
+- **frontend/** : Contient les fichiers HTML,CSS et JavaScript pour l'interface utilisateur.
 - **backend/** : Contient les scripts Python pour le traitement des requêtes d'images et la classification des produits.
 - **data/** : Éventuellement, ce répertoire peut contenir des données supplémentaires telles que des ensembles de données d'images pour l'entraînement du modèle.
 
