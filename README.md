@@ -33,3 +33,10 @@ Ce projet est une application web e-commerce qui offre aux utilisateurs la possi
 3. Accédez à l'interface utilisateur via un navigateur web.
 4. Téléchargez une image du produit que vous recherchez.
 5. Explorez les produits similaires retournés par le système.
+![ltcdnqa7](https://github.com/ouassima-dihaj/E-commerce-Image-Search/assets/113460174/aeff6f94-c5da-42e4-a2ce-8c68200f26f7)
+![3o36l3hj](https://github.com/ouassima-dihaj/E-commerce-Image-Search/assets/113460174/a76b5beb-c246-4230-a6c1-7838536644ca)
+![76vu8sac](https://github.com/ouassima-dihaj/E-commerce-Image-Search/assets/113460174/66a2800a-8028-4759-be59-fc042946fe28)
+![4s479grn](https://github.com/ouassima-dihaj/E-commerce-Image-Search/assets/113460174/0bb4f870-69b8-47da-bbc4-5c8bc1d796cb)
+
+
+
